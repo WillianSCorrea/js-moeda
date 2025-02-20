@@ -1,3 +1,5 @@
 export default {
-    moeda: 'BRL'
+    moeda1: 'BRL',
+    moeda1: 'USD',
+    moeda1: 'EUR',
 }
